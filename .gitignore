@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+venv/
+data/historical/
+models/*.pkl
+.DS_Store
+mlruns/
