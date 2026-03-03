@@ -6,3 +6,10 @@ data/historical/
 models/*.pkl
 .DS_Store
 mlruns/
+venv/
+data/
+models/*.pkl
+__pycache__/
+*.pyc
+logs/
+.env
